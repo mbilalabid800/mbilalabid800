@@ -1,68 +1,59 @@
-Muhammad Bilal 👨‍💻
+**Muhammad Bilal 👋**
 
-Flutter Developer | Mobile App Specialist | Technology Enthusiast
-Location: Lahore, Pakistan
-Email: mbilalabid800@gmail.com
-Phone: +92 300 8982661
+Flutter Developer | Mobile App Specialist
+📍 Location: Lahore, Pakistan
+📧 Email: mbilalabid800@gmail.com
+📱 Phone: +92 300 8982661
 
-I am a passionate Flutter Developer with over a year of hands-on experience building high-performance, user-centric mobile applications. With a solid background in both frontend and backend development, I specialize in designing intuitive interfaces, integrating robust APIs, and implementing real-time data management with Firebase. Leveraging Dart, Provider, and GetX, I build apps that are not only visually appealing but also scalable and efficient. My experience spans both iOS and Android platforms, and I have a deep commitment to delivering quality software solutions.
+I'm a Flutter Developer with over a year of experience, dedicated to creating efficient, user-friendly mobile applications. My expertise lies in designing intuitive UIs, integrating APIs, and implementing real-time data solutions with Firebase. I manage state using Provider and GetX, write in Dart, and utilize Git for version control. In addition to my development skills, I bring strong attention to detail and client service, honed through completing over 1,000 video editing projects on Fiverr.
 
-My journey into app development is complemented by a background in video editing, where I completed over 1,000 projects on Fiverr. This experience refined my attention to detail, sharpened my problem-solving skills, and strengthened my client collaboration approach. I thrive on creating impactful user experiences and am always exploring new technologies and best practices in mobile development.
+🛠 Skills & Expertise
+Languages: Dart, Java
+Frameworks: Flutter, Provider, GetX
+Mobile Platforms: iOS, Android
+Technologies: Firebase, RESTful APIs, FCM, Crashlytics, SQLite
+Additional Skills: UI/UX Design, Testing & Debugging, Version Control (Git)
 
-🛠 Core Skills & Expertise
-Programming Languages: Dart, Java
-Frameworks & Libraries: Flutter, Provider, GetX
-Mobile Platforms: iOS (Swift), Android (Kotlin), Cross-Platform with Flutter
-Backend & APIs: RESTful APIs, Firebase, Firebase Cloud Messaging (FCM)
-Development Tools: Git (version control), SQLite, Firebase Crashlytics
-Other Skills: UI/UX Design, Testing & Debugging, Cross-Functional Collaboration, Client Communication
+🎓 Education
+MS in Computer Science (MSCS) - University of the Punjab, Lahore, 2022 - GPA: 3.2
+BS in Computer Science (BSCS) - The University of Lahore, 2022 - GPA: 3.3
 
-🎓 Academic Background
-MS in Computer Science (MSCS)
-University of the Punjab, Lahore — GPA: 3.2 (2022)
+💼 Experience
 
-BS in Computer Science (BSCS)
-The University of Lahore — GPA: 3.3 (2022)
-
-My academic foundation in computer science has equipped me with a deep understanding of software engineering principles, algorithms, and problem-solving techniques, which I now apply in my work as a Flutter developer.
-
-💼 Professional Experience
 Flutter Developer
 Aipixel | Lahore, Pakistan
 August 2024 - Present
-As a Flutter Developer at Aipixel, I am responsible for developing and optimizing mobile applications, working closely with design and product teams to deliver exceptional user experiences and seamless functionality.
 
 Flutter Developer
 Horizam | Lahore, Pakistan
 July 2023 - August 2024
-During my time at Horizam, I contributed to multiple app projects, focusing on feature-rich, real-time applications using Flutter, Firebase, and REST APIs. I gained valuable experience in creating and refining codebases, debugging, and integrating third-party services.
 
-📱 Featured Projects
+📱 Notable Projects
+
 Mobile Market Hub
 Horizam | April 2024 - Present
-Technologies: Flutter, REST API, Firebase, FCM, Crashlytics, GitHub
-Description: This marketplace application allows users to purchase mobile devices, laptops, tablets, and accessories with a focus on secure transactions and a user-friendly shopping experience. (Launch coming soon)
+Tools: Flutter, REST API, Firebase, FCM, Crashlytics, GitHub
+Marketplace app for purchasing mobile devices and accessories with a secure, streamlined shopping experience. (Coming Soon)
 
 Budget Collab
 Horizam | February 2024 - April 2024
-Technologies: Flutter, REST API, Firebase, FCM, Crashlytics, GitHub, Trello
-Description: Designed for business teams, Budget Collab enables users to track expenses, manage salaries, and collaborate on budget planning efficiently. This app simplifies financial management for growing companies.
+Tools: Flutter, REST API, Firebase, FCM, Crashlytics, GitHub, Trello
+App for tracking business expenses, managing salaries, and facilitating team collaboration for comprehensive budget control.
 
 TIKL
 Horizam | January 2024 - February 2024
-Technologies: Flutter, REST API, Firebase, FCM
-Description: A seamless tool for instantly sharing social media profiles, contact info, and payment apps via a single tap using TIKL tags, enhancing networking in both personal and professional environments.
+Tools: Flutter, REST API, Firebase, FCM
+With the TIKL tag, share social media links, payment apps, and contact information instantly with a single tap.
 
 Gotaps
 Horizam | October 2023 - December 2023
-Technologies: Flutter, REST API, Firebase, FCM
-Description: Gotaps enables users to share their contact details and social profiles in an innovative, memorable way, ideal for business networking and personal use.
+Tools: Flutter, REST API, Firebase, FCM
+An app for sharing contact details and social profiles in a fast and memorable way.
 
 🌐 Languages
-Urdu: Native
-English: Proficient
+Urdu (Native)
+English (Proficient)
 
-🎨 Hobbies & Interests
-Traveling: I enjoy exploring new places and cultures, which broadens my perspectives and fuels my creativity.
-Coding: Constantly seeking to expand my knowledge in mobile and web technologies.
-Technology Trends: Staying updated on the latest advancements in app development, UI/UX, and software engineering.
+🎨 Hobbies
+Traveling | Coding
+
