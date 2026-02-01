@@ -1,162 +1,106 @@
-Muhammad Bilal 👋
-Full Stack Mobile Developer | Flutter & Node.js Specialist
-📍 Location: Lahore, Pakistan
-📧 Email: mbilalabid800@gmail.com
-📱 Phone: +92 300 8982661
-🔗 LinkedIn: linkedin.com/in/mbilalabid800
-💻 GitHub: github.com/mbilalabid800
+# Muhammad Bilal 👋
 
-I'm a Full Stack Mobile Developer with 3+ years of experience specializing in building secure, scalable, and high-performance applications. My expertise spans Flutter cross-platform development, Node.js/NestJS backend architecture, and end-to-end deployment to App Store, Play Store, and cloud environments. I architect robust systems with REST APIs, JWT/OAuth authentication, PostgreSQL/MongoDB databases, and implement advanced features like NFC solutions, real-time communication, AI integrations, and automation workflows.
+**Full Stack Mobile Developer | Flutter & Node.js Specialist**  
+📍 Lahore, Pakistan  
+📧 [mbilalabid800@gmail.com](mailto:mbilalabid800@gmail.com)  
+📱 +92 300 8982661  
+🔗 [LinkedIn](https://linkedin.com/in/mbilalabid800) | [GitHub](https://github.com/mbilalabid800)
 
-🛠 Technical Stack
-Frontend/Mobile: Flutter (iOS/Android/Web), Dart, Native Android (Kotlin), GetX, Provider, BLoC
-Backend: Node.js, NestJS, REST APIs, WebSockets, JWT, OAuth
-Databases: Firebase (Auth/Firestore), Supabase (PostgreSQL), MongoDB, SQLite
-Cloud & DevOps: Firebase, Supabase, AWS (Basic), GitHub Actions CI/CD, Docker Basics
-Integrations: Stripe, PayPal, QuickBooks API, Google Maps/Places API, OpenAI/ChatGPT
-Advanced Features: NFC Technology, Deep Linking, Real-time Chat, Media Streaming, Cron Jobs, FCM
-Tools: Git, Android Studio, VS Code, Figma, Trello, Postman
-Methodologies: Agile/Scrum, Clean Architecture, MVC, TDD
+---
 
-💼 Professional Experience
-Mobile Application Developer
-DevExcel | Lahore, Pakistan
-April 2025 – Present
+## About Me
 
-Develop cross-platform mobile applications using Flutter & Dart with clean architecture and responsive UI
+I'm a **Full Stack Mobile Developer** with **3+ years of experience** specializing in **secure, scalable, and high-performance apps**. My expertise spans **Flutter cross-platform development**, **Node.js/NestJS backend**, and **end-to-end deployment** to App Store, Play Store, and cloud environments.  
 
-Build Node.js/NestJS backend systems with secure REST APIs and authentication layers
+I architect robust systems with **REST APIs**, **JWT/OAuth authentication**, **PostgreSQL/MongoDB databases**, and implement advanced features like **NFC solutions**, **real-time communication**, **AI integrations**, and **automation workflows**.
 
-Implement cron jobs for automated data sync, notifications, and report generation
+---
 
-Integrate QuickBooks API for financial tracking and accounting operations
+## 🛠 Technical Stack
 
-Utilize Supabase for PostgreSQL databases, authentication, and real-time subscriptions
+**Frontend/Mobile:** Flutter (iOS/Android/Web), Dart, Native Android (Kotlin), GetX, Provider, BLoC  
+**Backend:** Node.js, NestJS, REST APIs, WebSockets, JWT, OAuth  
+**Databases:** Firebase (Auth, Firestore), Supabase (PostgreSQL), MongoDB, SQLite  
+**Cloud & DevOps:** Firebase, Supabase, AWS (Basic), GitHub Actions CI/CD, Docker Basics  
+**Integrations:** Stripe, PayPal, QuickBooks API, Google Maps/Places API, OpenAI/ChatGPT  
+**Advanced Features:** NFC, Deep Linking, Real-time Chat, Media Streaming, Cron Jobs, FCM  
+**Tools:** Git, Android Studio, VS Code, Figma, Trello, Postman  
+**Methodologies:** Agile/Scrum, Clean Architecture, MVC, TDD
 
-Flutter Developer
-AiPixel | Lahore, Pakistan
-June 2024 – April 2025
+---
 
-Developed cross-platform apps for Android, iOS, and Web using Flutter and Dart
+## 💼 Professional Experience
 
-Designed and built 50+ screens for NFC-based applications with individual/company workflows
+### Mobile Application Developer | DevExcel | Lahore, Pakistan  
+*April 2025 – Present*
+- Developed cross-platform mobile apps using Flutter & Dart with clean architecture and responsive UI  
+- Built Node.js/NestJS backend with secure REST APIs and authentication layers  
+- Implemented cron jobs for automated data sync, notifications, and reporting  
+- Integrated QuickBooks API and used Supabase for PostgreSQL, auth, and real-time subscriptions  
 
-Implemented NFC features with App Links and Deep Linking for seamless user interaction
+### Flutter Developer | AiPixel | Lahore, Pakistan  
+*June 2024 – April 2025*
+- Built cross-platform apps for Android, iOS, and Web; 50+ screens for NFC-based workflows  
+- Implemented NFC features, App Links, and Deep Linking for seamless interaction  
+- Integrated Firebase for authentication, real-time data, and notifications  
+- Used third-party AI chatbot API for personalized plans and published apps on Play/App Store  
 
-Integrated Firebase for authentication, real-time data, and push notifications
+### Flutter Developer | Horizam | Lahore, Pakistan  
+*Dec 2022 – May 2024*
+- Developed cross-platform apps using Flutter with responsive UIs  
+- Integrated REST APIs and Crashlytics for performance optimization  
+- Managed projects via GitHub and Trello using Agile methodology  
+- Deployed apps to Play Store and App Store with post-launch support  
 
-Used third-party AI chatbot API for personalized diet plans and activity recommendations
+---
 
-Published apps on Google Play Store and Apple App Store
+## 🚀 Key Projects
 
-Flutter Developer
-Horizam | Lahore, Pakistan
-December 2022 – May 2024
+**Swaption – Item Swapping & Marketplace App** | DevExcel | App Store • Play Store  
+*Tech: Flutter, GetX, MVC, Node.js/NestJS, WebSockets, Stripe, Supabase, Google Maps API*  
+- Marketplace app with real-time chat, payment integration, and video/media features  
 
-Developed cross-platform applications using Flutter for iOS and Android
+**PPS – Professional Police Service** | DevExcel  
+*Tech: Flutter, Node.js/NestJS, JWT Auth, Supabase, Cron Jobs*  
+- Law enforcement recruitment portal with 3-tier role system and automated workflows  
 
-Created responsive UIs in collaboration with UI/UX design teams
+**Absher – NFC-based Application** | AiPixel | Play Store  
+*Tech: Flutter, NFC, Firebase, Deep Linking, Platform Channels*  
+- NFC app with 50+ screens, real-time chat, and web companion pages  
 
-Integrated REST APIs for backend communication and data management
+**Active 360 – Health & Fitness App** | AiPixel | Play Store  
+*Tech: Flutter, AI Chatbot API, Supabase, Firebase Auth*  
+- Personalized health/wellness plans, data storage, and push notifications  
 
-Implemented Crashlytics for error tracking and performance optimization
+**Budget Collab – Financial Management App** | Horizam | Live  
+*Tech: Flutter, Firebase, REST API, FCM, Crashlytics*  
+- Collaborative expense tracking, reporting, and role-based permissions  
 
-Managed projects using GitHub and Trello with Agile methodology
+**Mobile Market Hub – E-commerce Platform** | Horizam | Live  
+*Tech: Flutter, Firebase, REST API, Payment Integration*  
+- Mobile e-commerce with product catalog, secure checkout, and notifications  
 
-Deployed applications to Play Store and App Store with post-launch support
+---
 
-🚀 Key Projects
-Swaption – Item Swapping & Marketplace App
-DevExcel | App Store • Play Store
-Tech: Flutter, GetX, MVC, Node.js/NestJS, WebSockets, Stripe, Supabase, Google Maps API
+## 🎓 Education
 
-Developed comprehensive marketplace app for swapping/purchasing items with real-time chat using WebSockets
+**Master of Science in Computer Science (MSCS)** | University of the Punjab, Lahore | 2020 – 2022  
+- Research in Data Science & Bioinformatics; applied ML techniques  
 
-Integrated Stripe payment gateway and Google Maps API for location-based services
+**Bachelor of Science in Computer Science (BSCS)** | University of Lahore | 2015 – 2019  
+- Core computer science fundamentals and software engineering principles  
 
-Implemented video player/media streaming features and FCM push notifications
+---
 
-Used Supabase for PostgreSQL database, authentication, and real-time subscriptions
+## 🌐 Languages
 
-PPS – Professional Police Service
-DevExcel
-Tech: Flutter, Node.js/NestJS, JWT Authentication, Supabase, Cron Jobs
+- **Urdu:** Native  
+- **English:** Professional Proficiency  
 
-Built specialized job portal for law enforcement recruitment with 3-tier role system
+---
 
-Implemented secure JWT-based authentication with role-based access control
+## 🎯 Interests
 
-Created comprehensive job application workflows with document upload and status tracking
-
-Automated application processes with cron jobs for notifications and data maintenance
-
-Absher – NFC-based Application
-AiPixel | Play Store
-Tech: Flutter, NFC Technology, Firebase, Deep Linking, Platform Channels
-
-Developed feature-rich NFC application with 50+ screens for individual/corporate workflows
-
-Implemented NFC tag reading/writing with App Links and Deep Linking
-
-Integrated Firebase Authentication and Firestore for real-time data sync
-
-Created companion Flutter Web pages and used Platform Channels for native Android operations
-
-Active 360 – Health & Fitness App
-AiPixel | Play Store
-Tech: Flutter, AI Chatbot API, Supabase, Firebase Authentication
-
-Built health application generating personalized wellness plans from user metrics
-
-Integrated third-party AI chatbot API for tailored diet/exercise recommendations
-
-Implemented Supabase for secure user data storage and progress tracking
-
-Designed intuitive UI with progress visualization and FCM notifications
-
-Budget Collab – Financial Management App
-Horizam | Live
-Tech: Flutter, Firebase, REST API, FCM, Crashlytics
-
-Developed financial management app for tracking business expenses and team budgeting
-
-Implemented real-time data synchronization using Firebase for collaborative expense tracking
-
-Created user roles/permissions system with financial visualization and reporting tools
-
-Integrated expense categorization, receipt scanning, and report generation
-
-Mobile Market Hub – E-commerce Platform
-Horizam | Live
-Tech: Flutter, Firebase, REST API, Payment Integration
-
-Developed mobile-centric e-commerce platform for smartphones, laptops, and accessories
-
-Implemented product catalog management with categories, filters, and search functionality
-
-Created secure shopping cart and checkout process with multiple payment options
-
-Integrated Firebase for user authentication, product data, and order management
-
-🎓 Education
-Master of Science in Computer Science (MSCS)
-University of the Punjab, Lahore | 2020 – 2022
-
-Research in Data Science and Bioinformatics with focus on computational analysis and machine learning
-
-Bachelor of Science in Computer Science (BSCS)
-University of Lahore | 2015 – 2019
-
-Comprehensive study of computer science fundamentals and software engineering principles
-
-🌐 Languages
-Urdu: Native
-
-English: Professional Proficiency
-
-🎯 Interests
-Cricket – Team strategy and competitive sports
-
-Traveling – Exploring new cultures and technological ecosystems
-
-Coding – Continuous learning and open-source contributions
+- **Cricket:** Team strategy & competitive sports  
+- **Traveling:** Exploring new cultures and tech ecosystems  
+- **Coding:** Continuous learning and open-source contributions
