@@ -1,81 +1,162 @@
-# Muhammad Bilal 👋
+Muhammad Bilal 👋
+Full Stack Mobile Developer | Flutter & Node.js Specialist
+📍 Location: Lahore, Pakistan
+📧 Email: mbilalabid800@gmail.com
+📱 Phone: +92 300 8982661
+🔗 LinkedIn: linkedin.com/in/mbilalabid800
+💻 GitHub: github.com/mbilalabid800
 
-## Flutter Developer | Mobile App Specialist
-📍 **Location**: Lahore, Pakistan  
-📧 **Email**: mbilalabid800@gmail.com  
-📱 **Phone**: +92 300 8982661  
+I'm a Full Stack Mobile Developer with 3+ years of experience specializing in building secure, scalable, and high-performance applications. My expertise spans Flutter cross-platform development, Node.js/NestJS backend architecture, and end-to-end deployment to App Store, Play Store, and cloud environments. I architect robust systems with REST APIs, JWT/OAuth authentication, PostgreSQL/MongoDB databases, and implement advanced features like NFC solutions, real-time communication, AI integrations, and automation workflows.
 
-I'm a Flutter Developer with over a year of experience, dedicated to creating efficient, user-friendly mobile applications. My expertise lies in designing intuitive UIs, integrating APIs, and implementing real-time data solutions with Firebase. I manage state using Provider and GetX, write in Dart, and utilize Git for version control. In addition to my development skills, I bring strong attention to detail and client service, honed through completing over 1,000 video editing projects on Fiverr.
+🛠 Technical Stack
+Frontend/Mobile: Flutter (iOS/Android/Web), Dart, Native Android (Kotlin), GetX, Provider, BLoC
+Backend: Node.js, NestJS, REST APIs, WebSockets, JWT, OAuth
+Databases: Firebase (Auth/Firestore), Supabase (PostgreSQL), MongoDB, SQLite
+Cloud & DevOps: Firebase, Supabase, AWS (Basic), GitHub Actions CI/CD, Docker Basics
+Integrations: Stripe, PayPal, QuickBooks API, Google Maps/Places API, OpenAI/ChatGPT
+Advanced Features: NFC Technology, Deep Linking, Real-time Chat, Media Streaming, Cron Jobs, FCM
+Tools: Git, Android Studio, VS Code, Figma, Trello, Postman
+Methodologies: Agile/Scrum, Clean Architecture, MVC, TDD
 
----
+💼 Professional Experience
+Mobile Application Developer
+DevExcel | Lahore, Pakistan
+April 2025 – Present
 
-### 🛠 Skills & Expertise
- **Languages**: Dart, Java  
- **Frameworks**: Flutter, Provider, GetX  
- **Mobile Platforms**: iOS, Android  
- **Technologies**: Firebase, RESTful APIs, FCM, Crashlytics, SQLite  
- **Additional Skills**: UI/UX Design, Testing & Debugging, Version Control (Git)  
+Develop cross-platform mobile applications using Flutter & Dart with clean architecture and responsive UI
 
----
+Build Node.js/NestJS backend systems with secure REST APIs and authentication layers
 
-### 🎓 Education
- **MS in Computer Science (MSCS)**  
-  University of the Punjab, Lahore | *2022* | GPA: 3.2  
+Implement cron jobs for automated data sync, notifications, and report generation
 
- **BS in Computer Science (BSCS)**  
-  The University of Lahore | *2022* | GPA: 3.3  
+Integrate QuickBooks API for financial tracking and accounting operations
 
----
+Utilize Supabase for PostgreSQL databases, authentication, and real-time subscriptions
 
-### 💼 Experience
+Flutter Developer
+AiPixel | Lahore, Pakistan
+June 2024 – April 2025
 
-**Flutter Developer**  
-Aipixel | Lahore, Pakistan  
-*August 2024 - Present*  
+Developed cross-platform apps for Android, iOS, and Web using Flutter and Dart
 
-**Flutter Developer**  
-Horizam | Lahore, Pakistan  
-*July 2023 - August 2024*  
+Designed and built 50+ screens for NFC-based applications with individual/company workflows
 
----
+Implemented NFC features with App Links and Deep Linking for seamless user interaction
 
-### 📱 Featured Projects
+Integrated Firebase for authentication, real-time data, and push notifications
 
-- **[Mobile Market Hub](https://mobile-market-hub.netlify.app/)**  
-  *Horizam | April 2024 - Present*  
-  **Tools**: Flutter, REST API, Firebase, FCM, Crashlytics, GitHub  
-  Marketplace app for mobile devices, laptops, tablets, and accessories with secure, seamless shopping experience. *(Launch Coming Soon)*  
+Used third-party AI chatbot API for personalized diet plans and activity recommendations
 
-- **[Budget Collab](https://budgetcollab.com)**  
-  *Horizam | February 2024 - April 2024*  
-  **Tools**: Flutter, REST API, Firebase, FCM, Crashlytics, GitHub, Trello  
-  This app enables businesses to track expenses, manage salaries, and collaborate with team members for streamlined budget control.  
+Published apps on Google Play Store and Apple App Store
 
-- **[TIKL](https://play.google.com/store/apps/details?id=com.horizam.tikl)**  
-  *Horizam | January 2024 - February 2024*  
-  **Tools**: Flutter, REST API, Firebase, FCM  
-  Networking app that allows users to instantly share social media, payment apps, and contact details with a tap using TIKL tags.  
+Flutter Developer
+Horizam | Lahore, Pakistan
+December 2022 – May 2024
 
-- **[Gotaps](https://gotaps.me/)**  
-  *Horizam | October 2023 - December 2023*  
-  **Tools**: Flutter, REST API, Firebase, FCM  
-  An app for sharing contact details and social media profiles in an innovative, memorable way, ideal for professional networking.  
+Developed cross-platform applications using Flutter for iOS and Android
 
----
+Created responsive UIs in collaboration with UI/UX design teams
 
-### 🌐 Languages
+Integrated REST APIs for backend communication and data management
 
-- **Urdu**: Native  
-- **English**: Proficient  
+Implemented Crashlytics for error tracking and performance optimization
 
----
+Managed projects using GitHub and Trello with Agile methodology
 
-### 🎨 Hobbies
+Deployed applications to Play Store and App Store with post-launch support
 
-- **Traveling**: Exploring new cultures and perspectives.  
-- **Coding**: Passionate about enhancing and expanding my skillset.  
+🚀 Key Projects
+Swaption – Item Swapping & Marketplace App
+DevExcel | App Store • Play Store
+Tech: Flutter, GetX, MVC, Node.js/NestJS, WebSockets, Stripe, Supabase, Google Maps API
 
----
+Developed comprehensive marketplace app for swapping/purchasing items with real-time chat using WebSockets
 
-**Let’s Connect** 👇  
-I'm always open to discussing new projects, ideas, and opportunities. Feel free to reach out!
+Integrated Stripe payment gateway and Google Maps API for location-based services
+
+Implemented video player/media streaming features and FCM push notifications
+
+Used Supabase for PostgreSQL database, authentication, and real-time subscriptions
+
+PPS – Professional Police Service
+DevExcel
+Tech: Flutter, Node.js/NestJS, JWT Authentication, Supabase, Cron Jobs
+
+Built specialized job portal for law enforcement recruitment with 3-tier role system
+
+Implemented secure JWT-based authentication with role-based access control
+
+Created comprehensive job application workflows with document upload and status tracking
+
+Automated application processes with cron jobs for notifications and data maintenance
+
+Absher – NFC-based Application
+AiPixel | Play Store
+Tech: Flutter, NFC Technology, Firebase, Deep Linking, Platform Channels
+
+Developed feature-rich NFC application with 50+ screens for individual/corporate workflows
+
+Implemented NFC tag reading/writing with App Links and Deep Linking
+
+Integrated Firebase Authentication and Firestore for real-time data sync
+
+Created companion Flutter Web pages and used Platform Channels for native Android operations
+
+Active 360 – Health & Fitness App
+AiPixel | Play Store
+Tech: Flutter, AI Chatbot API, Supabase, Firebase Authentication
+
+Built health application generating personalized wellness plans from user metrics
+
+Integrated third-party AI chatbot API for tailored diet/exercise recommendations
+
+Implemented Supabase for secure user data storage and progress tracking
+
+Designed intuitive UI with progress visualization and FCM notifications
+
+Budget Collab – Financial Management App
+Horizam | Live
+Tech: Flutter, Firebase, REST API, FCM, Crashlytics
+
+Developed financial management app for tracking business expenses and team budgeting
+
+Implemented real-time data synchronization using Firebase for collaborative expense tracking
+
+Created user roles/permissions system with financial visualization and reporting tools
+
+Integrated expense categorization, receipt scanning, and report generation
+
+Mobile Market Hub – E-commerce Platform
+Horizam | Live
+Tech: Flutter, Firebase, REST API, Payment Integration
+
+Developed mobile-centric e-commerce platform for smartphones, laptops, and accessories
+
+Implemented product catalog management with categories, filters, and search functionality
+
+Created secure shopping cart and checkout process with multiple payment options
+
+Integrated Firebase for user authentication, product data, and order management
+
+🎓 Education
+Master of Science in Computer Science (MSCS)
+University of the Punjab, Lahore | 2020 – 2022
+
+Research in Data Science and Bioinformatics with focus on computational analysis and machine learning
+
+Bachelor of Science in Computer Science (BSCS)
+University of Lahore | 2015 – 2019
+
+Comprehensive study of computer science fundamentals and software engineering principles
+
+🌐 Languages
+Urdu: Native
+
+English: Professional Proficiency
+
+🎯 Interests
+Cricket – Team strategy and competitive sports
+
+Traveling – Exploring new cultures and technological ecosystems
+
+Coding – Continuous learning and open-source contributions
